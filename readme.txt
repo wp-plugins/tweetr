@@ -17,6 +17,7 @@ Pulls the last user selected amount of tweets from your account and displays the
 1. Upload `Tweetr.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Move the widget into your themes sidebar 
+4. Set your account to be the active account
 
 == Frequently Asked Questions ==
 
@@ -26,7 +27,8 @@ In Tweetrs settings page just enter your Twitter username and Tweetr will do the
 
 == Screenshots ==
 
-1. Unavailable
+1. Tweetr Settings
+2. Tweetr in the Sidebar
 
 == Changelog ==
 
