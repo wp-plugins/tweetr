@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Tweetr
-Plugin URI: http://www.llygoden.com/
+Plugin URI: http://www.robmcghee.com/tweetr/
 Description: Display the latest tweets from a Twitter account
 Author: Rob McGhee
 Version: 1.0
