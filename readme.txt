@@ -1,5 +1,5 @@
 === Tweetr ===
-Contributors: llygoden
+Contributors: llygoden, AjP69
 Donate link: http://llygoden.com/
 Tags: Twitter, Tweet, Widget
 Requires at least: 2.0.2
