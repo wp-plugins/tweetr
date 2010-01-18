@@ -1,6 +1,6 @@
 === Tweetr ===
 Contributors: llygoden, AjP69
-Donate link: http://llygoden.com/
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=11264648
 Tags: Twitter, Tweet, Widget
 Requires at least: 2.0.2
 Tested up to: 2.9.1
