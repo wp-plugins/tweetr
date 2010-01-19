@@ -2,9 +2,9 @@
 Contributors: llygoden, AjP69
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=11264648
 Tags: Twitter, Tweet, Widget
-Requires at least: 2.0.2
+Requires at least: 2.0
 Tested up to: 2.9.1
-Stable tag: 1.0
+Stable tag: 1.5
 
 Pulls the last x amount of tweets from your account and displays them in a sidebar widget
 
@@ -35,7 +35,12 @@ In Tweetrs settings page just enter your Twitter username and Tweetr will do the
 = 1.0 =
 * Initial release.
 
+= 1.5 =
+* Added the option to change the widget title.
+* Added the option to ignore the latest Tweet.
+
 == Upgrade Notice ==
 
-= 1.0 =
-* Initial release.
+= 1.5 =
+* Added the option to change the widget title.
+* Added the option to ignore the latest Tweet.
